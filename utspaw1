@@ -1,0 +1,19 @@
+bella-shop/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── /assets
+│   ├── /images
+│   └── /icons
+│
+├── /pages
+│   ├── about.html
+│   └── contact.html
+│
+├── /backend
+│   ├── db_config.php
+│   └── functions.php
+│
+└── README.md
